@@ -1,6 +1,6 @@
 ### This is probably -NOT- the extension you are looking for!
 
-It only sends "run <open tab filename>" into the Terminal (which should be already running IPython 🤖).
+It only sends "run &lt;filename&gt;" into the Terminal (which should be already running IPython 🤖).
 
 ### Why?
 
