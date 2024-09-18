@@ -2,6 +2,10 @@
   "name": "osrunipy",
   "displayName": "vscode-runipy",
   "description": "Sends the 'run <filename>' to the terminal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lateshift/vscode-sendrun"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
