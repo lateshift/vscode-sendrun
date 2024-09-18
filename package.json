@@ -1,7 +1,7 @@
 {
   "name": "osrunipy",
   "displayName": "vscode-runipy",
-  "description": "Sends the current filename via 'run' into an IPython terminal",
+  "description": "Sends the 'run <filename>' to the terminal",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
